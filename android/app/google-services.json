@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434412560126",
+    "project_id": "face26-f6b0c",
+    "storage_bucket": "face26-f6b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434412560126:android:8477e04c05085c32cecfaf",
+        "android_client_info": {
+          "package_name": "com.example.face26_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434412560126-7b2hd58ammqrrmec4310umkadn6cqfmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLZs3HELgo0OoHwt7QyR562arhZ_HFK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434412560126-7b2hd58ammqrrmec4310umkadn6cqfmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
